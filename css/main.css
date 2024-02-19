@@ -36,7 +36,7 @@ h1 img{width:100px;}
 .menu li:nth-child(4).on a{color:#3A6A46;border-color:#3A6A46;border-top:3px solid #3A6A46;}
 .menu li:nth-child(5).on a{color:#94732C;border-color:#94732C; border-top:3px solid #94732C;}
 
-/* layout */
+
 section{
   width:100%; height:100vh; position:relative; background-size:cover; background-position:right-center;background-attachment:fixed; overflow:hidden;
 }
@@ -64,25 +64,25 @@ section:nth-child(2) article> p,section:nth-child(2) article> span{color:#A20303
 section:nth-child(3) article> p, section:nth-child(3) article> span{color:#61859B;}
 section:nth-child(4) article> p, section:nth-child(4) article> span{color:#3A6A46;}
 section:nth-child(5) article> p, section:nth-child(5) article> span{color:#94732C;}
-/* 첫번째 박스 */
+
 .p11 { position:absolute; bottom:0; right:0; width:1700px;}
 .p12 { position:absolute; bottom:0; right:0; }
 .main_snake {width:750px; position:absolute; top:-50px; left:300px; rotate:calc(168deg);}
 /* .main_snake{} */
 
-/* 두번째 박스 */
+
 .p21 { position:absolute; width:1920px;}
 .p22 { position:absolute; width:1080px; bottom:0;}
 .snake1 { position:absolute; top:180px; right:60px; width:530px;}
-/* 세번째 박스 */
+
 .p31 { position:absolute; width:1920px;}
 .p32 { position:absolute; width:1080px; right:0;}
 .snake2 { position:absolute; bottom:-200px; left:-500px; width:1000px;}
-/* 네번째 박스 */
+
 .p41 { position:absolute; width:1920px;}
 .p42 { position:absolute; width:1080px; right:0; bottom:0;}
 .snake3 { position:absolute; bottom:50px; right:-500px; width:1000px;}
-/* 다섯번째 박스 */
+
 .p51 { position:absolute; right:180px;}
 .p52 { position:absolute; bottom:-27px; right:110px;}
 .snake4 { position:absolute; width:500px; left:10px; bottom:10px;}
